@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.Filmes{
+    margin: 15px 668px;
+    background-color: antiquewhite;
+    border: 2px solid #000000;
+    text-align: center;
+}
+
+#F1{
+    margin-right: 25px;
+}
+
+#F2{
+    margin-right: 25px;
+}
+
+h1{
+    margin-top: 20px;
+    margin-bottom: 15px;
+    margin-left: 2px;
+}
+
+h2{
+    margin-left: 2px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+p{
+    margin-left: 2px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
